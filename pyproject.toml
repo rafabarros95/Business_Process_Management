@@ -1,0 +1,9 @@
+[project]
+name = "python-client"
+version = "0.1.0"
+description = "BPM Project on BPMS with Camunda 8"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pyzeebe>=4.7.0",
+]
