@@ -12,9 +12,9 @@ async def main():
     instance_key = await client.run_process(
         bpmn_process_id="loan-application",
         variables={
-            "applicant_name": "Rafa",
-            "loan_amount": 5000,
-            "credit_score": 720,
+            "applicant_name": "Julia Smith",
+            "loan_amount": 11000,
+            "credit_score": 900,
         }
     )
     print(f"Process instance started: {instance_key}")

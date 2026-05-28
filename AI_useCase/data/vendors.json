@@ -1,0 +1,151 @@
+{
+  "vendors": [
+    {
+      "vendor_name": "Hans Hansen Comps",
+      "contact": "hans@hansen.de",
+      "country": "DE",
+      "components": {
+        "Citybike Component Kit": { "price": 111.11, "avg_lead_time_days": 7,  "in_stock": 120 }
+      },
+      "on_time_delivery_rate": 0.82,
+      "defect_rate": 0.04,
+      "reliability_score": 0.78,
+      "payment_terms_days": 30,
+      "notes": "Established local supplier, slightly higher defect rate on last 50 shipments."
+    },
+    {
+      "vendor_name": "Paulsen Bike Componente",
+      "contact": "paul@paulsen.it",
+      "country": "IT",
+      "components": {
+        "Citybike Component Kit":     { "price": 122.22, "avg_lead_time_days": 10, "in_stock": 240 },
+        "Lastenrad Component Kit":    { "price": 145.00, "avg_lead_time_days": 12, "in_stock": 90  },
+        "Mountainbike Component Kit": { "price": 130.00, "avg_lead_time_days": 9,  "in_stock": 150 }
+      },
+      "on_time_delivery_rate": 0.94,
+      "defect_rate": 0.01,
+      "reliability_score": 0.93,
+      "payment_terms_days": 45,
+      "notes": "Premium supplier, broadest catalogue, longer cross-border lead time."
+    },
+    {
+      "vendor_name": "Velobits Express",
+      "contact": "orders@velobits.nl",
+      "country": "NL",
+      "components": {
+        "Citybike Component Kit":     { "price": 118.50, "avg_lead_time_days": 5, "in_stock": 60 },
+        "Mountainbike Component Kit": { "price": 134.00, "avg_lead_time_days": 6, "in_stock": 40 }
+      },
+      "on_time_delivery_rate": 0.88,
+      "defect_rate": 0.02,
+      "reliability_score": 0.86,
+      "payment_terms_days": 14,
+      "notes": "Fastest lead times, limited stock depth — best for rush orders."
+    },
+    {
+      "vendor_name": "EcoBike Supplies",
+      "contact": "info@ecobike.de",
+      "country": "DE",
+      "components": {
+        "Citybike Component Kit":     { "price": 105.00, "avg_lead_time_days": 8, "in_stock": 180 },
+        "Lastenrad Component Kit":    { "price": 135.00, "avg_lead_time_days": 11, "in_stock": 120 },
+        "Mountainbike Component Kit": { "price": 120.00, "avg_lead_time_days": 7, "in_stock": 90 }
+      },
+      "on_time_delivery_rate": 0.85,
+      "defect_rate": 0.03,
+      "reliability_score": 0.82,
+      "payment_terms_days": 30,
+      "notes": "Sustainable supplier, moderate pricing, reliable delivery."
+    },
+    {
+      "vendor_name": "Global Bike Parts",
+      "contact": "global@globalbikeparts.com",
+      "country": "US",
+      "components": {
+        "Citybike Component Kit":     { "price": 110.00, "avg_lead_time_days": 14, "in_stock": 200 },
+        "Lastenrad Component Kit":    { "price": 140.00, "avg_lead_time_days": 16, "in_stock": 150 },
+        "Mountainbike Component Kit": { "price": 125.00, "avg_lead_time_days": 13, "in_stock": 180 }
+      },
+      "on_time_delivery_rate": 0.89,
+      "defect_rate": 0.02,
+      "reliability_score": 0.88,
+      "payment_terms_days": 60,
+      "notes": "Global supplier with extensive inventory, longer lead times."
+    },
+    {
+      "vendor_name": "Bicycle Components Co.",
+      "contact": "info@bicyclecomponents.com",
+      "country": "BRA",
+      "components": {
+        "Citybike Component Kit":     { "price": 115.00, "avg_lead_time_days": 12, "in_stock": 160 },
+        "Lastenrad Component Kit":    { "price": 145.00, "avg_lead_time_days": 15, "in_stock": 130 },
+        "Mountainbike Component Kit": { "price": 130.00, "avg_lead_time_days": 11, "in_stock": 170 }
+      },
+      "on_time_delivery_rate": 0.91,
+      "defect_rate": 0.01,
+      "reliability_score": 0.90,
+      "payment_terms_days": 45,
+      "notes": "Reliable supplier with competitive pricing."
+    },
+    {
+      "vendor_name": "EuroBike Components",
+      "contact": "info@eurobikecomponents.eu",
+      "country": "DE",
+      "components": {
+        "Citybike Component Kit":     { "price": 112.00, "avg_lead_time_days": 9, "in_stock": 140 },
+        "Lastenrad Component Kit":    { "price": 142.00, "avg_lead_time_days": 13, "in_stock": 110 },
+        "Mountainbike Component Kit": { "price": 128.00, "avg_lead_time_days": 8, "in_stock": 160 }
+      },
+      "on_time_delivery_rate": 0.87,
+      "defect_rate": 0.02,
+      "reliability_score": 0.85,
+      "payment_terms_days": 30,
+      "notes": "European supplier with good balance of price and delivery performance."
+    },
+    {
+      "vendor_name": "Asia Bike Components",
+      "contact": "info@asiabikecomponents.as",
+      "country": "JP",
+      "components": {
+        "Citybike Component Kit":     { "price": 108.00, "avg_lead_time_days": 10, "in_stock": 120 },
+        "Lastenrad Component Kit":    { "price": 138.00, "avg_lead_time_days": 14, "in_stock": 90 },
+        "Mountainbike Component Kit": { "price": 122.00, "avg_lead_time_days": 9, "in_stock": 140 }
+      },
+      "on_time_delivery_rate": 0.86,
+      "defect_rate": 0.03,
+      "reliability_score": 0.84,
+      "payment_terms_days": 45,
+      "notes": "Asian supplier with competitive pricing, moderate delivery times."
+    },
+    {
+      "vendor_name": "Local Bike Parts",
+      "contact": "info@localbikeparts.com",
+      "country": "US",
+      "components": {
+        "Citybike Component Kit":     { "price": 110.00, "avg_lead_time_days": 7, "in_stock": 200 },
+        "Lastenrad Component Kit":    { "price": 140.00, "avg_lead_time_days": 10, "in_stock": 150 },
+        "Mountainbike Component Kit": { "price": 125.00, "avg_lead_time_days": 6, "in_stock": 180 }
+      },
+      "on_time_delivery_rate": 0.92,
+      "defect_rate": 0.01,
+      "reliability_score": 0.91,
+      "payment_terms_days": 30,
+      "notes": "Local supplier with quick delivery and high quality."
+    },
+    {
+      "vendor_name": "Bike Components Ltd.",
+      "contact": "info@bikecomponents.com",
+      "country": "US",
+      "components": {
+        "Citybike Component Kit":     { "price": 115.00, "avg_lead_time_days": 12, "in_stock": 160 },
+        "Lastenrad Component Kit":    { "price": 145.00, "avg_lead_time_days": 15, "in_stock": 130 },
+        "Mountainbike Component Kit": { "price": 130.00, "avg_lead_time_days": 11, "in_stock": 170 }
+      },
+      "on_time_delivery_rate": 0.89,
+      "defect_rate": 0.02,
+      "reliability_score": 0.88,
+      "payment_terms_days": 45,
+      "notes": "Established supplier with good reputation."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "carriers": [
+    {
+      "carrier_name": "DHL Express",
+      "contact": "biz@dhl.de",
+      "hub_country": "DE",
+      "base_price_eur": 18.00,
+      "per_kg_price_eur": 2.10,
+      "transit_days": 2,
+      "on_time_delivery_rate": 0.96,
+      "max_weight_kg": 70,
+      "co2_per_km_g": 180,
+      "countries_served": ["DE", "FR", "NL", "BE", "IT", "ES", "PL", "AT", "CH", "DK", "SE", "US", "GB", "JP", "BR"],
+      "notes": "Premium global express, top reliability, highest CO2."
+    },
+    {
+      "carrier_name": "DPD Classic",
+      "contact": "service@dpd.de",
+      "hub_country": "DE",
+      "base_price_eur": 8.50,
+      "per_kg_price_eur": 0.95,
+      "transit_days": 3,
+      "on_time_delivery_rate": 0.91,
+      "max_weight_kg": 31.5,
+      "co2_per_km_g": 110,
+      "countries_served": ["DE", "FR", "NL", "BE", "AT", "CH", "PL", "IT", "ES", "DK"],
+      "notes": "Cheap EU ground network, weight ceiling at 31.5 kg."
+    },
+    {
+      "carrier_name": "UPS Standard",
+      "contact": "support@ups.com",
+      "hub_country": "DE",
+      "base_price_eur": 14.00,
+      "per_kg_price_eur": 1.40,
+      "transit_days": 3,
+      "on_time_delivery_rate": 0.93,
+      "max_weight_kg": 70,
+      "co2_per_km_g": 150,
+      "countries_served": ["DE", "FR", "NL", "BE", "IT", "ES", "PL", "AT", "CH", "US", "GB", "JP", "BR"],
+      "notes": "Mid-tier global ground, reliable."
+    },
+    {
+      "carrier_name": "GLS Eco",
+      "contact": "eco@gls.de",
+      "hub_country": "DE",
+      "base_price_eur": 9.20,
+      "per_kg_price_eur": 1.05,
+      "transit_days": 5,
+      "on_time_delivery_rate": 0.89,
+      "max_weight_kg": 50,
+      "co2_per_km_g": 45,
+      "countries_served": ["DE", "FR", "NL", "BE", "AT", "CH", "PL", "IT", "ES", "DK"],
+      "notes": "Climate-neutral EU ground, slower transit, lowest CO2."
+    },
+    {
+      "carrier_name": "FedEx Priority",
+      "contact": "biz@fedex.com",
+      "hub_country": "US",
+      "base_price_eur": 28.00,
+      "per_kg_price_eur": 3.40,
+      "transit_days": 2,
+      "on_time_delivery_rate": 0.95,
+      "max_weight_kg": 68,
+      "co2_per_km_g": 200,
+      "countries_served": ["DE", "FR", "NL", "BE", "IT", "ES", "US", "GB", "JP", "BR", "MX", "CA"],
+      "notes": "Premium global air priority — fastest to the Americas, most expensive."
+    }
+  ]
+}
